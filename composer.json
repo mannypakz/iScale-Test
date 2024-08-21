@@ -1,0 +1,14 @@
+{
+    "name": "personal/php_test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mannypakz",
+            "email": "suson.emmanuel@gmail.com"
+        }
+    ]
+}
